@@ -71,6 +71,7 @@ img {
   display: flex;
   justify-content: center;
   gap: 50px;
+  padding-left: 300px;
 }
 
 .stories {
@@ -244,8 +245,8 @@ color: grey;
 
 .footer ul{
   display: flex;
-  gap: 20px;
-  margin-top: 10px;
+  gap: 30px;
+  margin-top: 20px;
 }
 
 .footer a{
